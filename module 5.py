@@ -1,4 +1,4 @@
-'''#Task 01
+#Task 01
 print("Task 1")
 import random
 n = int(input("How many dice do you want to roll? "))
@@ -48,7 +48,7 @@ for i in range(2, int(num**0.5) + 1):
 if is_prime:
   print(num, "is a prime number.")
 else:
-  print(num, "is not a prime number.")'''
+  print(num, "is not a prime number.")
 
 #task 04
 print("task 4")
